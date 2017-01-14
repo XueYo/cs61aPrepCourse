@@ -73,5 +73,5 @@ end
 
 puts 'Two' + lyric1 + ', ' + lyric2
 puts lyric3 + 'one bottle of beer on the wall.'
-puts 'One bottle of beer on the wall, 1 bottle of beer.'
+puts 'One bottle of beer on the wall, one bottle of beer.'
 puts lyric3 + ' no more bottles of beer on the wall.'
